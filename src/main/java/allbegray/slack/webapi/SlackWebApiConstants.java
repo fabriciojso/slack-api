@@ -7,7 +7,7 @@ public interface SlackWebApiConstants {
 
 	int DEFAULT_TIMEOUT = 5000;
 
-	int DEFAULT_COUNT = 100;
+	int DEFAULT_COUNT = 2000;
 	int DEFAULT_PAGE = 1;
 
 	// test
